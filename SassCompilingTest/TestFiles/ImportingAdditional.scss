@@ -1,0 +1,18 @@
+@import "Import.scss";
+@import "AdditionalImport.scss";
+
+body {
+    .class {
+        color: red;
+    }
+}
+
+.class-1 {
+    @extend %extensible;
+    float:left;
+}
+
+.class-1__item {
+    @extend %extensible__item;
+    float:right;
+}

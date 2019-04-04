@@ -1,0 +1,12 @@
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\obj\Debug\netcoreapp2.2\SassCompilingTest.csproj.CoreCompileInputs.cache
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\obj\Debug\netcoreapp2.2\SassCompilingTest.AssemblyInfoInputs.cache
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\obj\Debug\netcoreapp2.2\SassCompilingTest.AssemblyInfo.cs
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\bin\Debug\netcoreapp2.2\SassCompilingTest.deps.json
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\bin\Debug\netcoreapp2.2\SassCompilingTest.runtimeconfig.json
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\bin\Debug\netcoreapp2.2\SassCompilingTest.runtimeconfig.dev.json
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\bin\Debug\netcoreapp2.2\SassCompilingTest.dll
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\bin\Debug\netcoreapp2.2\SassCompilingTest.pdb
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\obj\Debug\netcoreapp2.2\SassCompilingTest.dll
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\obj\Debug\netcoreapp2.2\SassCompilingTest.pdb
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\bin\Debug\netcoreapp2.2\x64\libsass.dll
+C:\Users\serbay.cevik\source\repos\SassCompilingTest\SassCompilingTest\obj\Debug\netcoreapp2.2\SassCompilingTest.csprojAssemblyReference.cache

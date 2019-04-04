@@ -1,0 +1,19 @@
+body {
+    border-color: green;
+}
+
+%extensible {
+    color: turquoise
+}
+
+%extensible__item {
+    background-color: red;
+}
+
+.extensible-class {
+    float: left;
+}
+
+.extensible-class__item {
+    font-weight: bold;
+}

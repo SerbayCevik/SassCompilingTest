@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "0b9d8ad01566011aa3ef4a20799783c92dda4609"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SassCompilingTest/1.0.0": {
+        "dependencies": {
+          "LibSassHost": "1.2.3",
+          "LibSassHost.Native.win-x64": "1.2.3"
+        },
+        "runtime": {
+          "SassCompilingTest.dll": {}
+        }
+      },
+      "AdvancedStringBuilder/0.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/AdvancedStringBuilder.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "LibSassHost/1.2.3": {
+        "dependencies": {
+          "AdvancedStringBuilder": "0.1.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/LibSassHost.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "LibSassHost.Native.win-x64/1.2.3": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/libsass.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SassCompilingTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvancedStringBuilder/0.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IbN3r5whlJvi8MhCDPVpIb+NVScyUcKSdcJZrnoXFDyzPDISl3AbWouNBYIHRdZdfGuzqCQEhM1vkxbIKqQVaQ==",
+      "path": "advancedstringbuilder/0.1.0",
+      "hashPath": "advancedstringbuilder.0.1.0.nupkg.sha512"
+    },
+    "LibSassHost/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sx2SNq6HNDSvM4k8zD0YweZzV/42qfrP104VE7FNquylsT6Y8Kw8ieBq13AU9FVo1eZ77z+VpHAH3wmIaq/BJw==",
+      "path": "libsasshost/1.2.3",
+      "hashPath": "libsasshost.1.2.3.nupkg.sha512"
+    },
+    "LibSassHost.Native.win-x64/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F8doQ6v2t1SHvqY7C58luHd1EjJjrn8HeCPkQBROPa60b/CLu6KZPjXJjpMXiz3cVKjSnAVqy3prKTC53ZI6Vw==",
+      "path": "libsasshost.native.win-x64/1.2.3",
+      "hashPath": "libsasshost.native.win-x64.1.2.3.nupkg.sha512"
+    }
+  }
+}
